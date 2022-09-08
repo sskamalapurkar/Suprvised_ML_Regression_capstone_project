@@ -1,1 +1,1 @@
-# Suprvised_ML_Regression_capstone_project
+# Supervised_ML_Regression_capstone_project
